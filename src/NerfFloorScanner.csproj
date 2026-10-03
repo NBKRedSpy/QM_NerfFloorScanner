@@ -58,9 +58,6 @@
 		<PackageReference Include="Newtonsoft.json" Version="13.0.3" ExcludeAssets="runtime;" />
 		<PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" ExcludeAssets="runtime;" />
 	</ItemGroup>
-	<ItemGroup>
-	  <Folder Include="Patches\" />
-	</ItemGroup>
 	<PropertyGroup>
 		<AssemblyVersion>$(VersionPrefix)</AssemblyVersion>
 		<PackageFolder>$(ProjectDir)../package/</PackageFolder>
