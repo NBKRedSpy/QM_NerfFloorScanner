@@ -1,0 +1,10 @@
+{
+  "UniqueModName": "NBKRedSpy_NerfFloorScanner",
+  "Assemblies": [
+    "NerfFloorScanner.dll"
+  ],
+  "Dependencies": [],
+  "SteamTags": [
+    "Gameplay Tweaks"
+  ]
+}
