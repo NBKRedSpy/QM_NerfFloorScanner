@@ -18,7 +18,7 @@ If you enjoy my mods and want to buy me a coffee, check out my [Ko-Fi](https://k
 Thank you!
 
 # Source Code
-Source code is available on GitHub at https://github.com/NBKRedSpy/NerfFloorScanner
+Source code is available on GitHub at https://github.com/NBKRedSpy/QM_NerfFloorScanner
 
 # Change Log
-Source code is available on GitHub at https://github.com/NBKRedSpy/NerfFloorScanner/blob/main/CHANGELOG.md
+Source code is available on GitHub at https://github.com/NBKRedSpy/QM_NerfFloorScanner/blob/main/CHANGELOG.md
